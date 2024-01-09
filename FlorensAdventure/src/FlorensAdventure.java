@@ -1,0 +1,7 @@
+public class FlorensAdventure {
+
+    public static void main(String[] args) {
+        Game game = new Game();
+        game.gameSetup();
+    }
+}
